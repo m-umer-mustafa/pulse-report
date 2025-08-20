@@ -74,8 +74,8 @@ pakistan-pulse-news/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd pakistan-pulse-news
+   git clone https://github.com/m-umer-mustafa/pulse-report.git
+   cd pulse-report
    ```
 
 2. **Install dependencies**
