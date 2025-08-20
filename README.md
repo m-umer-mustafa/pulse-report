@@ -1,4 +1,4 @@
-# Pakistan Pulse News
+# Pulse Report
 
 A modern, responsive news aggregator web application that delivers the latest Pakistan national news and international headlines. Built with React, TypeScript, and modern web technologies.
 
